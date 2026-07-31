@@ -1,0 +1,74 @@
+[
+    {
+        "nama": "Fredrinn",
+        "role": [
+        "Fighter",
+        "Tank"
+    ],
+    "win_rate": "5.88%",
+    "pick_rate": "0.62%",
+    "ban_rate": "5.88%",
+    "counter": "Argus"
+    },
+
+    {
+        "nama": "Suyou",
+        "role": [
+        "Assassin",
+        "Fighter"
+    ],
+    "win_rate": "49.69%",
+    "pick_rate": "0.90%",
+    "ban_rate": "3.20%",
+    "counter": "Sun"
+    },
+
+    {
+        "nama": "Zhuxin",
+        "role": "Mage",
+    "win_rate": "47.31%",
+    "pick_rate": "0.19%",
+    "ban_rate": "2.14%",
+    "counter": "Lolita"
+    },
+
+    {
+        "nama": "Marcel",
+        "role": "Support",
+    "win_rate": "58.79%",
+    "pick_rate": "0.26%",
+    "ban_rate": "29.98%",
+    "counter": "Atlas"
+    },
+
+    {
+        "nama": "Paquito",
+        "role": [
+        "Assassin",
+        "Fighter"
+    ],
+    "win_rate": "50.86%",
+    "pick_rate": "1.49%",
+    "ban_rate": "62.43%",
+    "counter": "X.borg"
+    },
+
+    {
+        "nama": "Fanny",
+        "role": "Assassin",
+    "win_rate": "49.69%",
+    "pick_rate": "0.90%",
+    "ban_rate": "3.20%",
+    "counter": "Granger"
+    },
+
+    {
+        "nama": "Joy",
+        "role": "Assassin",
+    "win_rate": "47.83%",
+    "pick_rate": "0.29%",
+    "ban_rate": "0.45%",
+    "counter": "X.borg"
+    }
+    
+]
