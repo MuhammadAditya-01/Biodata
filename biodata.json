@@ -1,0 +1,21 @@
+{
+   "biodata": {
+    "nama": "Muhammad Aditya",
+    "jenis_kelamin": "Laki-laki",
+    "tempat_lahir": "Denpasar",
+    "tanggal_lahir": "22 Januari 2010",
+    "umur": "16",
+    "agama": "Islam",
+    "alamat": "Kp.Sayuran",
+    "telepon": "08123456789",
+    "email": "hello@gmail.com",
+    "sekolah": "SMK Marhas",
+    "kelas": "XI PPLG 2",
+    "hobi": [
+        "Coding",
+        "Design",
+        "Bermain Game"
+    ],
+    "cita_cita": "Pengusaha"
+   }
+}   
